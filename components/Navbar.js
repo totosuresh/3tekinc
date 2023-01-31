@@ -14,10 +14,10 @@ function Navbar() {
   </a>
   <ul class="navbar-nav d-none d-lg-flex">
     <li class="nav-item">
-      <a class="nav-link" href="#Features">Features</a>
+      <a class="nav-link" href="#Features">Who we Are</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#Pricing">Pricing</a>
+      <a class="nav-link" href="#Pricing">Business</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#Careers">Careers</a>
